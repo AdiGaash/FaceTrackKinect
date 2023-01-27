@@ -1,0 +1,30 @@
+{
+    "defaultTimeSeconds": 120,
+    "groups": [
+        {
+            "enabled": true,
+            "timeSeconds": 120,
+            "name": "group E"
+        },
+        {
+            "enabled": true,
+            "timeSeconds": 120,
+            "name": "group D"
+        },
+        {
+            "enabled": true,
+            "timeSeconds": 120,
+            "name": "group C"
+        },
+        {
+            "enabled": true,
+            "timeSeconds": 120,
+            "name": "group B"
+        },
+        {
+            "enabled": true,
+            "timeSeconds": 120,
+            "name": "group A"
+        }
+    ]
+}
